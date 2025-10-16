@@ -25,8 +25,8 @@ To set up and run this project locally, please follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
-    cd [Your-Repo-Name]
+    git clone https://github.com/ErfanRezaei/Brain-Tumor-Segmentation-Using-U-net.git
+    cd Brain-Tumor-Segmentation-Using-U-net
     ```
 
 2.  **Install the required packages:**
@@ -44,17 +44,6 @@ To set up and run this project locally, please follow these steps:
     The entire workflow is documented in the `Brain Tumor Segmentation.ipynb` Jupyter Notebook. To run the project, start Jupyter Notebook and open the file.
 
 ---
-
-## Results
-
-The model was trained for **[e.g., 20]** epochs, and its performance was evaluated on the held-out validation set.
-
-### Quantitative Metrics
-
-- **Final Validation Dice Coefficient:** **[e.g., 0.9245]**
-- **Final Validation Loss:** **[e.g., 0.0812]**
-
-The high Dice Coefficient score indicates a strong overlap between the model's predictions and the ground truth masks, demonstrating the model's effectiveness.
 
 ## Example 1: Successful Segmentation
 
