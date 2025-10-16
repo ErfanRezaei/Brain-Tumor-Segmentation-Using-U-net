@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.1.post1
+opencv-python==4.9.0.80
+albumentations==1.4.0
+matplotlib==3.8.2
+tqdm==4.66.1
+notebook==7.1.2
